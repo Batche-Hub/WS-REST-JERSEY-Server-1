@@ -1,0 +1,8 @@
+fr\doranco\jaxrs\dao\IEmployeDAO.class
+fr\doranco\jaxrs\jersey\entity\Employe.class
+fr\doranco\jaxrs\dao\EmployeDAO.class
+fr\doranco\jaxrs\jersey\server\IEmployeWebResource.class
+fr\doranco\jaxrs\jersey\server\EmployeWebResource.class
+fr\doranco\jaxrs\connexion\JaxrsDataSource.class
+fr\doranco\jaxrs\jersey\main\JerseyResourceLauncher.class
+fr\doranco\jaxrs\jersey\main\main.class
